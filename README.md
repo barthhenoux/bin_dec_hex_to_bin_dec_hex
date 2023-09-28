@@ -4,3 +4,4 @@ en un entier binaire, décimal ou hexadécimal.
 (ceci est la contribution de Barthélémy)
 (ceci est ma deuxieme contribution)
 voila
+ca marche
